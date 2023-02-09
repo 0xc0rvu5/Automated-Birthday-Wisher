@@ -1,1 +1,1 @@
-# Day-32 of 100 days of Python
+# Automated Birthday Wisher
